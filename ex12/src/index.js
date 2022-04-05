@@ -10,3 +10,4 @@ function logicOrder(num) {
 console.log(logicOrder(28));
 console.log(logicOrder(60));
 console.log(logicOrder(110));
+module.exports = logicOrder;
