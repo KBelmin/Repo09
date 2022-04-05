@@ -10,7 +10,6 @@ function switchCase(letter) {
         case "d": animals = "stuff";
         break;
         default: animals = "stuff";
-        break;
     }
     return animals;
 }
